@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.10+-orange.svg)](https://pytorch.org/)
 [![PyG](https://img.shields.io/badge/PyTorch--Geometric-2.0%2B-green.svg)](https://pytorch-geometric.readthedocs.io/)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
 Graph-Classification is a modular and extendable implementation of node and edge classification tasks using Graph Neural Networks (GNNs), including **GCN**, **GraphSAGE**, and **GAT**. It utilizes the [OGB](https://ogb.stanford.edu/) benchmark datasets, especially `ogbn-products`, and is built with [PyTorch Geometric (PyG)](https://pytorch-geometric.readthedocs.io/).
 
