@@ -138,14 +138,14 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ## 📃 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the UI License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## 📬 Contact
 
 **Author:** M. Amin Kiani  
-**Email:** amin.kiani@example.com *(replace with your real email)*  
+**Email:** amin.kiani82@gmail.com  
 **LinkedIn:** [linkedin.com/in/amin-kiani](https://linkedin.com/in/amin-kiani) *(optional)*
 
 ---
